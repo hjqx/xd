@@ -1,4 +1,4 @@
-MADE BY ZQH AKA HJQX
+MADE LONG TIME AGO BY ZQH AKA HJQX
 ```py
 def _3(*d)->(_:=lambda*_,:_):g,=*d,;yield(_(_(*(zip([g],['q''h',])))))
 f = lambda d, : next(c for c in d)
